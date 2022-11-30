@@ -12,7 +12,8 @@ import TheaterComedyIcon from "@mui/icons-material/TheaterComedy";
 import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
 import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 
-export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
+export const logo =
+  "https://www.google.com/search?q=blue+play+button+png&rlz=1C1UEAD_enUS999US999&oq=blue+play+button+png&aqs=chrome.0.0i512j0i15i22i30j0i22i30j0i15i22i30j0i22i30j0i390l3.4358j0j7&sourceid=chrome&ie=UTF-8#imgrc=IqOUp5Sw783MeM";
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },

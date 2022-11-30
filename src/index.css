@@ -8,7 +8,7 @@ body {
 
 a {
   text-decoration: none;
-  color: black;
+  color: rgb(155, 182, 209);
 }
 
 ::-webkit-scrollbar {
@@ -27,7 +27,7 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #fc1503 !important;
+  background-color: #03cefc !important;
   color: white !important;
 }
 
