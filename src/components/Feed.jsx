@@ -31,7 +31,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 4.0, color: "#fff" }}
         >
-          Copyright 2022 Infinite Media
+          Copyright 2023 MeTube
         </Typography>
       </Box>
       <Box p={2} sx={{ overflowY: "auto", height: "90vh", flex: "2" }}>
