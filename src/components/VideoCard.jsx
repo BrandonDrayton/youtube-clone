@@ -19,9 +19,11 @@ const VideoCard = ({
 }) => (
   <Card
     sx={{
+      border: "none",
       width: { xs: "100%", sm: "358px", md: "320px" },
       boxShadow: "none",
       borderRadius: 5,
+      boxSizing: "border-box",
     }}
   >
     <Link to={videoId ? `/video/${videoId}` : `/video/cV2gBU6hKfY`}>
